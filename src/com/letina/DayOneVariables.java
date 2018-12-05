@@ -1,6 +1,6 @@
 package com.letina;
 
-public class FirstLesson {
+public class DayOneVariables {
     //just type psv it will suggest a main object for you.
     public static void main(String[] args) {
         //control space will make intelj to autosuggest.

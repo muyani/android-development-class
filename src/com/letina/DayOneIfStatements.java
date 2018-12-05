@@ -1,6 +1,6 @@
 package com.letina;
 
-public class SecondLesson {
+public class DayOneIfStatements {
     public static void main(String[] args) {
         double weight = 58;
         double height = 1.67;
